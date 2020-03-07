@@ -5,7 +5,7 @@ public class Ex4_7 {
 		int num = 0;
 		
 		for (int i = 1; i <= 5; i++) {
-			num = (int) (Math.random() * 6) + 1; // 1 <= num <6
+			num = (int) (Math.random() * 6) + 1; // 1 <= num <7
 			System.out.println(num);
 		}
 
