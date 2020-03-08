@@ -7,7 +7,6 @@ public class Ex4_15 {
 		answer = (int)(Math.random()*100)+1;
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println(answer);
 		do {
 			System.out.printf("1과 100사이의 정수를 입력하세요.>");
 			input = scanner.nextInt();
