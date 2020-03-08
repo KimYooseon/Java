@@ -5,9 +5,9 @@ public class Ex4_16 {
 		int sum = 0, i = 0;
 		
 		while(true) {
-			if(sum > 100) {
+			if(sum > 100)
 				break;
-			}
+		
 			i++;
 			sum += i;
 		}
