@@ -17,5 +17,4 @@ public class Ex5_1_tmp {
 		int value = score[3];
 		System.out.println("value = " + value);
 	}
-
 }
